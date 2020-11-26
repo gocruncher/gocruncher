@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I welcome to any suggestions to contribute 😄
+
+### Github Stats
+
+![Rick's github stats](https://github-readme-stats.vercel.app/api?username=gocruncher&count_private=true)
